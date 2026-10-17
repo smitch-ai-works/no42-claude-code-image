@@ -1,0 +1,2 @@
+cd ~/claude-images
+claude

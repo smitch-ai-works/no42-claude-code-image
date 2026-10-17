@@ -1,0 +1,3 @@
+Claude Codeから画像を作りたいです。次の配布元を読んで、私のPCに必要なものと導入手順を確認してください。
+https://github.com/KingGyuSuh/codex-image-in-cc
+Claude Codeのプラグイン対応、Node.js、Codex CLI、ChatGPTでのログイン状態を確認し、不足があれば私が行う操作を順番に教えてください。パスワードやAPIキーは求めず、インストールやログインが必要な操作は先に内容を説明してください。

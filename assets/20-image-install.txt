@@ -1,0 +1,1 @@
+claude plugin install codex-image@codex-image-in-cc
